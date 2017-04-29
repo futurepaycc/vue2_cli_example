@@ -1,21 +1,17 @@
-# loader_example
+# vue_cli_webpack生成的项目，只含了router模块
 
-> A Vue.js project
-
-## Build Setup
+## 运行说明
 
 ``` bash
-# install dependencies
+# 安装依赖
 npm install
-
-# serve with hot reload at localhost:8080
+# 启动本地热更新服务localhost:8080
 npm run dev
-
-# build for production with minification
+# 生产环境构建(含压缩)
 npm run build
-
-# build for production and view the bundle analyzer report
+# 构建报告
 npm run build --report
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 原理参考
+1. [vue_webpack](http://vuejs-templates.github.io/webpack/)
+2. [vue_loader](http://vuejs.github.io/vue-loader).
