@@ -18,4 +18,4 @@ npm run build --report
 
 ## 原理参考
 1. [vue_webpack](http://vuejs-templates.github.io/webpack/)
-2. [vue_loader](http://vuejs.github.io/vue-loader).
+2. [vue_loader](http://vuejs.github.io/vue-loader)
