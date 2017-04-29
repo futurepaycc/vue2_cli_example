@@ -14,7 +14,7 @@ npm run build --report
 ```
 
 ## 详细说明
-> 参见README_EXT.MD
+> README_EXT.MD
 
 ## 原理参考
 1. [vue_webpack](http://vuejs-templates.github.io/webpack/)
